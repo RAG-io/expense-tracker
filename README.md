@@ -114,4 +114,7 @@ python src/main.py
 ---
 
 ## License
-This project is for educational and personal use.
+This project is licensed under the **MIT License**.  
+The LICENSE file contains full licensing details and required credits.
+
+---
